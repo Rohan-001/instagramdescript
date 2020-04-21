@@ -1,0 +1,14 @@
+<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cd Pradyuman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Pradyuman
+<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->pradyuman.txt<br/><br/>
+
+Hey There! I am Rohan.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently a sophomore in high school, anad actually enjoy learning (TU Delft).</p>
+<p>I love to play videogames, watch anime, read, learn and practice programming.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I began my interest ym computer science in general and have been looking for ways and oppotunities to learn more and work on cool projects.</p>
+<p>I enjoy working on game development, boostrap development, and other cool projects as well. <br><br><br>
+<p> You can visit my other profiles, here: <br> <a href="https://discordapp.com/">LinkedIn</a> <br> <a href="https://github.com/rohan-001">GitHub</a> <br> <a href=https://www.instagram.com/blubber_poncho/>Medium</a> </p>
+ 
+
+Thanks for reading!</a>.
+
+<p>Cheers!</p>
+<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> exit
